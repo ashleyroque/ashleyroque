@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashleyroque
-- 👀 I’m interested in ML, AI
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Java oriented projects
-- 📫 How to reach me: LinkedLn
+- 👀 I’m interested in ML, AI, Cloud Computing, Software Engineering, Product Management, Business 
+- 🌱 I’m currently learning C and SQL 
+- 💞️ I’m looking to collaborate on Java-oriented projects
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to read fiction books! 
 
